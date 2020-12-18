@@ -20,7 +20,9 @@ git branch -d doc  //删除分支
 git remote prune origin
 
 //git忽略规则
+//如果配置的规则不起作用，需要清理缓存，然后重新提交
 git rm -r --cached .
-[root@kevin ~]# git add .
-[root@kevin ~]# git commit -m 'update .gitignore'
-[root@kevin ~]# git push -u origin master
+git add .
+git commit -m 'update .gitignore'
+git push -u origin master
+//配置的规则可以模糊匹配，忽略 *.class 文件等
