@@ -16,5 +16,5 @@ git checkout -b doc   //创建新分支 并切换到新分支
 git merge doc //合并分支
 git branch -d doc  //删除分支
 
-//清理pull之后出现的分支信息
+//清理pull之后出现的分支信息 -- 无效
 git remote prune origin
