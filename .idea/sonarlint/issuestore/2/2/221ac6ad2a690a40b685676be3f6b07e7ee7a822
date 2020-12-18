@@ -1,16 +1,0 @@
-
-œ
-java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ
-S	java:S106F"9Replace this use of System.out or System.err by a logger.(Ñ¹Î“ùÿÿÿÿ
-X	java:S125"<This block of commented-out lines of code should be removed.(ñ•ø8â¥òß.
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Æì° úÿÿÿÿ
-E
-java:S2387""*"x" is the name of a field in "Component".(ï‰ÀŽùÿÿÿÿ
-E
-java:S2387#"*"y" is the name of a field in "Component".(¼Ê„†ýÿÿÿÿ
-—
-java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—
-W	java:S125"<This block of commented-out lines of code should be removed.(—‹‰8ìÙÆòß.
-f
-java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(É—ù8ÅÃ£òß.
-Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(˜¿šþ

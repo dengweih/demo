@@ -1,9 +1,0 @@
-
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(´üÜıÿÿÿÿ8µÛîâ.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(Ò‰»8µÛîâ.
-S
-java:S2121"7Remove this "indexOf" call; it has predictable results.(ÓŞæR8Š÷Ô·ã.
-G
-java:S2201"+The return value of "indexOf" must be used.(ÓŞæR8˜¾Ó·ã.
-Z	java:S106	"9Replace this use of System.out or System.err by a logger.(í—¢˜şÿÿÿÿ8Ù¾Íîâ.
