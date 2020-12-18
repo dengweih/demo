@@ -1,0 +1,26 @@
+#####创建git仓库#####
+//在对应项目目录下打开Git Bash
+echo "# demo" >> README.md  -- 新建一个README.md的文件，并将项目名写入此文件
+git init -- 新建一个本地仓库 //新建.git目录，存放本地仓库对应信息
+git add README.md -- 将README.md文件加入到仓库中
+git commit -m "first commit" -- 将文件commit到本地仓库，并备注
+//这一步是在本地仓库添加远程仓库的地址信息，为push命令做铺垫
+git remote add origin https://github.com/XuDaojie/demo.git -- 添加远程仓库，origin只是一个远程仓库的别名，可以随意取
+//在push之前还需要 在git网站上添加对应的demo仓库 Repository
+git push -u origin master -- 将本地仓库push远程仓库，并将origin设为默认远程仓库
+
+//git 新建分支以及合并分支
+git checkout -b doc   //创建新分支 并切换到新分支
+=== git branch doc    //创建新分支
+ +  git checkout doc  //切换分支
+git merge doc //合并分支
+git branch -d doc  //删除分支
+
+//清理pull之后出现的分支信息 -- 无效
+git remote prune origin
+
+//git忽略规则
+git rm -r --cached .
+[root@kevin ~]# git add .
+[root@kevin ~]# git commit -m 'update .gitignore'
+[root@kevin ~]# git push -u origin master
