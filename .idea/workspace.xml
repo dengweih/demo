@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3989f526-7ec4-4ab9-be71-38e1675d989b" name="Default Changelist" comment="" />
-    <list id="75de96e1-0a01-4e9f-b44d-88d97a03d858" name="ignored changelist" comment="忽略提交的文件">
+    <list default="true" id="3989f526-7ec4-4ab9-be71-38e1675d989b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/221ac6ad2a690a40b685676be3f6b07e7ee7a822" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/2/221ac6ad2a690a40b685676be3f6b07e7ee7a822" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/411b11055497f1f69a1a7b6a25da07d4c927414e" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/1/411b11055497f1f69a1a7b6a25da07d4c927414e" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64512059b8354f687fcd692a64b384df6a742489" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/64512059b8354f687fcd692a64b384df6a742489" afterDir="false" />
@@ -10,6 +10,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0f6af63b9caf8e7f38fef84fc81ece42650e446" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0f6af63b9caf8e7f38fef84fc81ece42650e446" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/git操作" beforeDir="false" afterPath="$PROJECT_DIR$/doc/git操作" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -182,6 +183,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="忽略提交的文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="忽略提交的文件" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="361" y="71" key="#Notifications" timestamp="1607654327723">
       <screen x="0" y="0" width="1536" height="824" />
@@ -191,10 +196,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1606118568077" />
-    <state x="504" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608277681664">
+    <state x="504" y="211" width="520" height="398" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608279728541">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="504" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1608277681664" />
+    <state x="504" y="211" width="520" height="398" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1608279728541" />
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1608086765321">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

@@ -13,3 +13,8 @@ git push -u origin master -- 将本地仓库push远程仓库，并将origin设�
 git checkout -b doc   //创建新分支 并切换到新分支
 === git branch doc    //创建新分支
  +  git checkout doc  //切换分支
+git merge doc //合并分支
+git branch -d doc  //删除分支
+
+//清理pull之后出现的分支信息
+git remote prune origin
