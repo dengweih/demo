@@ -8,3 +8,8 @@ git commit -m "first commit" -- 将文件commit到本地仓库，并备注
 git remote add origin https://github.com/XuDaojie/demo.git -- 添加远程仓库，origin只是一个远程仓库的别名，可以随意取
 //在push之前还需要 在git网站上添加对应的demo仓库 Repository
 git push -u origin master -- 将本地仓库push远程仓库，并将origin设为默认远程仓库
+
+//git 新建分支以及合并分支
+git checkout -b doc   //创建新分支 并切换到新分支
+=== git branch doc    //创建新分支
+ +  git checkout doc  //切换分支

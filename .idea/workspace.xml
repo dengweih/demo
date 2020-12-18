@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3989f526-7ec4-4ab9-be71-38e1675d989b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/doc/git操作" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/doc/git操作" beforeDir="false" afterPath="$PROJECT_DIR$/doc/git操作" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +167,7 @@
       <workItem from="1607908010605" duration="2615000" />
       <workItem from="1607994172882" duration="21000" />
       <workItem from="1608010766119" duration="733000" />
-      <workItem from="1608080431952" duration="6997000" />
+      <workItem from="1608080431952" duration="7426000" />
     </task>
     <servers />
   </component>
