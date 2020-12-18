@@ -1,0 +1,25 @@
+
+œ
+java:S1186D"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ
+V	java:S110"<This class has 6 parents which is greater than 5 authorized.(¥°Ý†ùÿÿÿÿ
+V	java:S110H"<This class has 6 parents which is greater than 5 authorized.(Æ¾×ƒûÿÿÿÿ
+=
+java:S2189/""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+—
+java:S11865"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¢†Éµ
+—
+java:S1186:"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—
+S	java:S106g"9Replace this use of System.out or System.err by a logger.(Ñ¹Î“ùÿÿÿÿ
+S	java:S106""9Replace this use of System.out or System.err by a logger.(Ñ¹Î“ùÿÿÿÿ
+E
+java:S2387J"*"y" is the name of a field in "Component".(øÛàµøÿÿÿÿ
+Q	java:S1250"<This block of commented-out lines of code should be removed.( ƒ«ÿ
+E
+java:S2387I"*"x" is the name of a field in "Component".(èé‹üûÿÿÿÿ
+E
+java:S2387
+"*"y" is the name of a field in "Component".(ÒÖæóøÿÿÿÿ
+@
+java:S2387	"*"x" is the name of a field in "Component".(¿°šæ
+–
+java:S1186?"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ý¼õA

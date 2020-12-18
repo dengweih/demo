@@ -1,0 +1,14 @@
+
+f	java:S117	"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–®ïÚ
+B
+java:S1874	",Remove this use of "Date"; it is deprecated.(–®ïÚ
+M	java:S106""9Replace this use of System.out or System.err by a logger.(ıÖ=
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(á¬¦ıÿÿÿÿ
+D
+java:S1874$"/Remove this use of "getYear"; it is deprecated.(ü¢ô|
+D
+java:S1874$"/Remove this use of "getYear"; it is deprecated.(ü¢ô|
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(­‚Àıøÿÿÿÿ
+t	java:S1150"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÒŠ³îşÿÿÿÿ
+t	java:S1151"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ˆÅÏúÿÿÿÿ
+n	java:S1152"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ß¶Ü

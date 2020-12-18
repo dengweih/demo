@@ -1,0 +1,16 @@
+
+W	java:S125"<This block of commented-out lines of code should be removed.(—‹‰8ìÙÆòß.
+œ
+java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(˜Â½€øÿÿÿÿ
+—
+java:S1186-"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(÷—
+f
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(É—ù8ÅÃ£òß.
+E
+java:S2387""*"x" is the name of a field in "Component".(ï‰Àùÿÿÿÿ
+E
+java:S2387#"*"y" is the name of a field in "Component".(¼Ê„†ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Æì° úÿÿÿÿ
+Q	java:S110"<This class has 6 parents which is greater than 5 authorized.(˜¿šş
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(Ñ¹Î“ùÿÿÿÿ
+X	java:S125"<This block of commented-out lines of code should be removed.(ñ•ø8â¥òß.
