@@ -3,33 +3,31 @@ package com.java.test_20_12_14;
 import java.util.LinkedList;
 import java.util.Queue;
 
-public class Program9 {
-    public static void main(String[] args){
-        Integer[] arr = {1,2,2,3,3,null,null,4,4};
-//        Integer[] arr = {3,9,20,null,null,15,7};
+public class Program10 {
+    public static void main(String[] args) {
+        Integer[] arr = {1,2,3,4,5,6,7};
         Node root = new Node(arr[0]);
         root = buildTree(arr, root, 0);
-        System.out.println(isTree(root));
 
-    }
-    private static boolean isTree(Node root){
-        if (root == null){
-            return true;
-        }
-
-        if (Math.abs(deptTree(root.left) - deptTree(root.rigth)) >= 2){
-            return false;
-        }
-        return isTree(root.left) && isTree(root.rigth);
-    }
-    private static int deptTree(Node root){
-        if (root == null){
-            return 0;
-        }
-        return Math.max(deptTree(root.left), deptTree(root.rigth)) + 1;
+        printTree(root);
     }
 
-    //index 从0开始，左节点2i+1 ; 右节点 2i+2
+    private static void printTree(Node root){
+        Queue<Node> queue = new LinkedList<>();
+        if (root != null){
+            queue.offer(root);
+        }
+        while (!queue.isEmpty()){
+            Node p = queue.poll();
+            System.out.print(p.val+ " ");
+            if (p.left != null){
+                queue.offer(p.left);
+            }
+            if (p.rigth != null){
+                queue.offer(p.rigth);
+            }
+        }
+    }
 
     private static Node buildTree(Integer[] arr, Node root, int index){
         if (root == null){
@@ -54,7 +52,6 @@ public class Program9 {
         return root;
     }
 
-
     static class Node{
         int val;
         Node left;
@@ -62,16 +59,5 @@ public class Program9 {
         Node(Integer val){
             this.val = val;
         }
-
-        @Override
-        public String toString() {
-            return "Node{" +
-                    "val=" + val +
-                    ", left=" + left +
-                    ", rigth=" + rigth +
-                    '}';
-        }
     }
 }
-
-
